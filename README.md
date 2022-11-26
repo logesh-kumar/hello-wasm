@@ -1,1 +1,1 @@
-A simple web assemmly app using rust and wasm-bindgen
+A simple webassembly app using rust and wasm-bindgen
